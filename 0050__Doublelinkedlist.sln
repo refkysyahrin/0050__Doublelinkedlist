@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0050__Doublelinkedlist", "0050__Doublelinkedlist.vcxproj", "{9B283EB9-6339-402F-BEB8-88606A3230E8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bool Search", "..\Bool Search\Bool Search.vcxproj", "{387824FC-8169-43F4-868E-D6C322048AE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{9B283EB9-6339-402F-BEB8-88606A3230E8}.Release|x64.Build.0 = Release|x64
 		{9B283EB9-6339-402F-BEB8-88606A3230E8}.Release|x86.ActiveCfg = Release|Win32
 		{9B283EB9-6339-402F-BEB8-88606A3230E8}.Release|x86.Build.0 = Release|Win32
+		{387824FC-8169-43F4-868E-D6C322048AE5}.Debug|x64.ActiveCfg = Debug|x64
+		{387824FC-8169-43F4-868E-D6C322048AE5}.Debug|x64.Build.0 = Debug|x64
+		{387824FC-8169-43F4-868E-D6C322048AE5}.Debug|x86.ActiveCfg = Debug|Win32
+		{387824FC-8169-43F4-868E-D6C322048AE5}.Debug|x86.Build.0 = Debug|Win32
+		{387824FC-8169-43F4-868E-D6C322048AE5}.Release|x64.ActiveCfg = Release|x64
+		{387824FC-8169-43F4-868E-D6C322048AE5}.Release|x64.Build.0 = Release|x64
+		{387824FC-8169-43F4-868E-D6C322048AE5}.Release|x86.ActiveCfg = Release|Win32
+		{387824FC-8169-43F4-868E-D6C322048AE5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
